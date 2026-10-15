@@ -23,3 +23,5 @@ Git is a version-control system that tracks changes in files. GitHub allows us t
 - Web browser# devops-assignment-1
 My first repository for DevOps Assignment 1: GitHub basics.
 Add assignment details to README
+## Branch Practice
+I created the assignment-notes branch to practise isolated changes.
