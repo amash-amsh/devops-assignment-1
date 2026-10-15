@@ -25,3 +25,4 @@ My first repository for DevOps Assignment 1: GitHub basics.
 Add assignment details to README
 ## Branch Practice
 I created the assignment-notes branch to practise isolated changes.
+Add branch practice note
